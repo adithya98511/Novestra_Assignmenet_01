@@ -1,0 +1,2 @@
+public class TestCase25 {
+}
